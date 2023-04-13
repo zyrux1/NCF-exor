@@ -2,11 +2,11 @@
 
 ## Supported Versions
 
-| Version | Supported                |
-| ------- | -------------------------|
-| 1.0.0.0 Alpha | ✅ |
+| Version | Supported|
+| ------- | -------- |
+| 1.0.0. Alpha | ✅ / Compatible|
+| 1.2.2 Alpha  | ❎ / Not Compatible |
 | ?   | ❔ |
-| ?   | ❓ |
 | ?   | ❓ |
 
 ## Reporting a Vulnerability
