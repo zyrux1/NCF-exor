@@ -18,5 +18,5 @@ Again, thank you for your cooperation in helping me/us maintain the security of 
 
 # Credits
 
-Powered by: WeAreDevs
+Powered by: WeAreDevs;
 Used: API
